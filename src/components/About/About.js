@@ -3,7 +3,7 @@ import React, { useContext } from 'react';
 import './About.css';
 import { ThemeContext } from '../../contexts/ThemeContext';
 import { aboutData } from '../../data/aboutData'
-import JoshCableImg from '../../assets/jpg/Josh-Cable.jpg'; 
+import WorkingImg from '../../assets/png/Working.png'; 
 
 
 function About() {
@@ -23,7 +23,7 @@ function About() {
                 </div>
                 <div className="about-img">
                     <img 
-                         src={JoshCableImg} // Use the imported image
+                         src={WorkingImg} // Use the imported image
                          alt="Josh Cable" 
                          />
                 </div>
