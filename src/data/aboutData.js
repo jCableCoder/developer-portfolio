@@ -1,6 +1,8 @@
+import JoshCableImg from '../assets/jpg/Josh-Cable.jpg'; 
+
 export const aboutData = {
-    title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
-    image: 2
+    title: "About me",
+    description1: "My name is Josh Cable. I'm a web designer, software developer and freelance writer based in Cleveland, Ohio.",
+    description2: "I believe that I bring a unique skillset to software development. In addition to my training as a full-stack developer through Tech Elevator, my strengths include content development, graphic design, WordPress web design, content marketing and project management. I believe many of the skills that made me successful in business journalism are the same ones that are key a successful career in software development: creativity, critical thinking, research, time management, meeting deadlines and strong communication.",
+    image: JoshCableImg, 
 }

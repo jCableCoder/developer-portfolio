@@ -1,6 +1,6 @@
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
+import one from '../assets/svg/projects/Weather Plus App.png'
+import two from '../assets/svg/projects/Band.png'
+import three from '../assets/svg/projects/Cavs Intel.png'
 import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
@@ -11,29 +11,29 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Employee Management',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Weather+',
+        projectDesc: 'This is my first project working with APIs, combining a basic weather lookup with a dad-joke generator.',
+        tags: ['Vue.js', 'CSS', 'Axios'],
+        code: 'https://github.com/jCableCoder/weather-plus',
+        demo: 'https://weather-plus-joke.netlify.app/',
         image: one
     },
     {
         id: 2,
-        projectName: 'Railway Tracking',
-        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-        tags: ['Django', 'Tailwind CSS'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Band Name Generator',
+        projectDesc: 'Need a name for your band? Crank up the Band Name Machine! This one goes to 11.',
+        tags: ['Vue.js, HTML, JavaScript, CSS'],
+        code: 'https://github.com/jCableCoder/band-name-machine',
+        demo: 'https://band-name-machine.netlify.app/',
         image: two
     },
     {
         id: 3,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Django', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        projectName: 'Cavs Intel',
+        projectDesc: "I created Cavs Intel in 2023, and it's been a real labor of love. Go Cavs!", 
+        tags: ['WordPress, Canva, Content Creation'],
+        // code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://cavsintel.com',
         image: three
     },
     {

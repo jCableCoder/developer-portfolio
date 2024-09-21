@@ -1,9 +1,11 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from '../assets/pdf/josh_cable_resume.pdf';
+import profileImage from '../assets/jpg/Josh-Cable.jpg';  // Import the image
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Josh Cable',
+    title: "Software Developer | Digital Artist | Content Creator",
+    desciption: "My love of language and my passion for learning led to me software development. I’m really excited about the opportunity to leverage my creativity and critical-thinking skills to design front-end and back-end software solutions that solve problems, drive innovation and help grow your business.",
+    image: profileImage,  // Use the imported image
     resumePdf: resume
-}
+};
+
