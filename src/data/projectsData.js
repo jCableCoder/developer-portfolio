@@ -1,7 +1,7 @@
 import one from '../assets/svg/projects/Weather Plus App.png'
 import two from '../assets/svg/projects/Band.png'
 import three from '../assets/svg/projects/TekScale.png'
-import four from '../assets/svg/projects/Cavs Intel.png'
+
 // import five from '../assets/svg/projects/five.svg'
 // import six from '../assets/svg/projects/six.svg'
 // import seven from '../assets/svg/projects/seven.svg'
