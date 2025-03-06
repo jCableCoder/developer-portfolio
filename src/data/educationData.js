@@ -6,15 +6,15 @@ export const educationData = [
         startYear: 'May 2024',
         endYear: 'August 2024'
     },
-   
+
     {
         id: 2,
-        institution: 'Amazon Web Services',
-        course: 'AWS Cloud Practitioner Essentials',
-        startYear: 'August 2024',
-        endYear: 'Present'
+        institution: 'AWS Cloud Practitioner Essentials',
+        // course: '',
+        startYear: 'October 2024',
+        // endYear: 'Present'
     },
-   
+
     {
         id: 3,
         institution: 'Bowling Green State University',
@@ -22,5 +22,5 @@ export const educationData = [
         /* startYear: '2015',
         endYear: '2019' */
     },
-   
+
 ]
