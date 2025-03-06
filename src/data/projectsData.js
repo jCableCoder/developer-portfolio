@@ -36,15 +36,7 @@ export const projectsData = [
         demo: 'https://tekscale.netlify.app/',
         image: three
     },
-    {
-        id: 4,
-        projectName: 'Cavs Intel',
-        projectDesc: "I created Cavs Intel in 2023, and it's been a real labor of love. Go Cavs!",
-        tags: ['WordPress, Canva, Content Creation'],
-        code: '',
-        demo: 'https://cavsintel.com/',
-        image: four
-    },
+
     // {
     //     id: 5,
     //     projectName: 'E-Commerce App',
